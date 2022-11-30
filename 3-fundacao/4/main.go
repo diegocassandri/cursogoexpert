@@ -18,4 +18,6 @@ var (
 
 func main() {
 	fmt.Printf("O tipo de E é %T", f)
+	s := fmt.Sprintf("O tipo de E é %T", f)
+	fmt.Println(s)
 }
