@@ -33,7 +33,9 @@ func main() {
 			fmt.Fprintf(os.Stderr, "Erro ao ler resposta: %v\n", err)
 		}
 		var data ViaCEP
+
 		err = json.Unmarshal(res, &data)
+		fmt.Println(data)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "Erro ao fazer parse da resposta: %v\n", err)
 		}
