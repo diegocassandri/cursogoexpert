@@ -1,2 +1,4 @@
+github.com/devfullcycle/goexpert/7-Packaging/3/math v0.0.0-20221207135701-0930182e358d h1:8AgW6wf4g5jcTgi3Ab4D5xQ5TpElbIXxKSt75PS3qck=
+github.com/devfullcycle/goexpert/7-Packaging/3/math v0.0.0-20221207135701-0930182e358d/go.mod h1:7VcYZP9hvgGzakpc1/peqf51AVlw2mFqcY8HIvmiBL0=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

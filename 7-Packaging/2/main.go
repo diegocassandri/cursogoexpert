@@ -3,5 +3,5 @@ package main
 import "github.com/google/uuid"
 
 func main() {
-    println(uuid.New().String())
+	println(uuid.New().String())
 }
